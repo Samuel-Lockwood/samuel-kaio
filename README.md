@@ -1,6 +1,5 @@
 - 👋 Olá, me chamo Samuel
 - 💻 Desenvolvedor Front-End
-- 🌱 Atualmente estudando Back-End
 - 💞️ Estou aberto a colaborações e parcerias em projetos relacionados a desenvolvimento front-end
 - 📫 samuelkaio600@gmail.com
 <div style="display: flex;">
